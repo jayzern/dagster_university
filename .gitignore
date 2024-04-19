@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 tmp*
-data
+data/raw/taxi_trips_2023-03.parquet
+data/staging/data.duckdb
+data/raw/taxi_zones.csv
+data/outputs/trips_by_week.csv
